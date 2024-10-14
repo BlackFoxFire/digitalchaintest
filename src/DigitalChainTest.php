@@ -7,7 +7,7 @@
  * Permet de tester les nombres provenant de formulaire HTLM
  */
 
- namespace Blackfox\DigitTester;
+ namespace Blackfox\DigitalChainTest;
 
  class DigitalChainTest
  {
